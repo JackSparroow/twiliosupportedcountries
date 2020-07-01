@@ -9,37 +9,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 8
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "AT",
    "Country": "Austria",
@@ -50,37 +21,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 6
-   },
-   "Inbound Voice Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking Price ": {
-      " min": "N/A"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "AU",
    "Country": "Australia",
@@ -91,37 +33,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 2.5
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "BA",
    "Country": "Bosnia and Herzegovina",
@@ -132,37 +45,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 42
-   },
-   "Inbound Voice Price ": {
-      " min": "0.056"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.052"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "BB",
    "Country": "Barbados",
@@ -173,37 +57,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 27
-   },
-   "Inbound Voice Price ": {
-      " min": "0.029"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.025"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "BE",
    "Country": "Belgium",
@@ -214,37 +69,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking Price ": {
-      " min": "N/A"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "BG",
    "Country": "Bulgaria",
@@ -255,37 +81,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 3
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "BJ",
    "Country": "Benin",
@@ -296,37 +93,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 27
-   },
-   "Inbound Voice Price ": {
-      " min": "0.129"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.125"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "BR",
    "Country": "Brazil",
@@ -337,37 +105,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 4
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "BW",
    "Country": "Botswana",
@@ -378,37 +117,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 50
-   },
-   "Inbound Voice Price ": {
-      " min": "0.4492"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.4452"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "CA",
    "Country": "Canada",
@@ -419,37 +129,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "Yes",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.0085"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.0045"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "0.01"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "CH",
    "Country": "Switzerland",
@@ -460,37 +141,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "CL",
    "Country": "Chile",
@@ -501,37 +153,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 7
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "CO",
    "Country": "Colombia",
@@ -542,37 +165,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 14
-   },
-   "Inbound Voice Price ": {
-      " min": "0.09"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.086"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "CY",
    "Country": "Cyprus",
@@ -583,37 +177,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 7
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "CZ",
    "Country": "Czech Republic",
@@ -624,37 +189,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1.5
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "DE",
    "Country": "Germany",
@@ -665,37 +201,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "DK",
    "Country": "Denmark",
@@ -706,37 +213,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 15
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "DO",
    "Country": "Dominican Republic",
@@ -747,37 +225,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 7
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "DZ",
    "Country": "Algeria",
@@ -788,37 +237,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 33
-   },
-   "Inbound Voice Price ": {
-      " min": "0.224"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.22"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "EC",
    "Country": "Ecuador",
@@ -829,37 +249,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 34
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "EE",
    "Country": "Estonia",
@@ -870,37 +261,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "FI",
    "Country": "Finland",
@@ -911,37 +273,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "FR",
    "Country": "France",
@@ -952,37 +285,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "GB",
    "Country": "United Kingdom",
@@ -993,37 +297,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "GD",
    "Country": "Grenada",
@@ -1034,37 +309,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 27
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "GE",
    "Country": "Georgia",
@@ -1075,37 +321,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 18
-   },
-   "Inbound Voice Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking Price ": {
-      " min": "N/A"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "GH",
    "Country": "Ghana",
@@ -1116,37 +333,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 27
-   },
-   "Inbound Voice Price ": {
-      " min": "0.129"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.125"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "GN",
    "Country": "Guinea",
@@ -1157,37 +345,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 27
-   },
-   "Inbound Voice Price ": {
-      " min": "0.129"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.125"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "GR",
    "Country": "Greece",
@@ -1198,37 +357,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "HK",
    "Country": "Hong Kong",
@@ -1239,37 +369,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 15
-   },
-   "Inbound Voice Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking Price ": {
-      " min": "N/A"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.04"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "HU",
    "Country": "Hungary",
@@ -1280,37 +381,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 4
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "ID",
    "Country": "Indonesia",
@@ -1321,37 +393,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 23
-   },
-   "Inbound Voice Price ": {
-      " min": "0.0225"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.0185"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "IL",
    "Country": "Israel",
@@ -1362,37 +405,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 4
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "IN",
    "Country": "India",
@@ -1403,37 +417,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 20
-   },
-   "Inbound Voice Price ": {
-      " min": "0.2632"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.2592"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "IS",
    "Country": "Iceland",
@@ -1444,37 +429,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 5
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "JM",
    "Country": "Jamaica",
@@ -1485,37 +441,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 27
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "JP",
    "Country": "Japan",
@@ -1526,37 +453,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 4.5
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "KE",
    "Country": "Kenya",
@@ -1567,37 +465,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 16
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "KR",
    "Country": "Korea Republic of",
@@ -1608,37 +477,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 25
-   },
-   "Inbound Voice Price ": {
-      " min": "0.1287"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.1247"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "KY",
    "Country": "Cayman Islands",
@@ -1649,37 +489,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 29
-   },
-   "Inbound Voice Price ": {
-      " min": "0.029"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.025"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "LT",
    "Country": "Lithuania",
@@ -1690,37 +501,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "LU",
    "Country": "Luxembourg",
@@ -1731,37 +513,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 3
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "LV",
    "Country": "Latvia",
@@ -1772,37 +525,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 3
-   },
-   "Inbound Voice Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking Price ": {
-      " min": "N/A"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.02"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "ML",
    "Country": "Mali",
@@ -1813,37 +537,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 38
-   },
-   "Inbound Voice Price ": {
-      " min": "0.4641"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.4601"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "MO",
    "Country": "Macau",
@@ -1854,37 +549,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 70
-   },
-   "Inbound Voice Price ": {
-      " min": "0.264"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.26"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "MU",
    "Country": "Mauritius",
@@ -1895,37 +561,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 60
-   },
-   "Inbound Voice Price ": {
-      " min": "0.204"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.2"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "MX",
    "Country": "Mexico",
@@ -1936,37 +573,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 6
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "MY",
    "Country": "Malaysia",
@@ -1977,37 +585,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "Yes",
-   "Phone Number Price ": {
-      " month": 5
-   },
-   "Inbound Voice Price ": {
-      " min": "0.025"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.03"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "Yes"
+ },
  {
    "ISO": "NA",
    "Country": "Namibia",
@@ -2018,37 +597,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 33
-   },
-   "Inbound Voice Price ": {
-      " min": "0.1025"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.0985"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "NG",
    "Country": "Nigeria",
@@ -2059,37 +609,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 35
-   },
-   "Inbound Voice Price ": {
-      " min": "0.03"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.026"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "NI",
    "Country": "Nicaragua",
@@ -2100,37 +621,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 50
-   },
-   "Inbound Voice Price ": {
-      " min": "0.7066"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.7026"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "NL",
    "Country": "Netherlands",
@@ -2141,37 +633,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 5
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "NZ",
    "Country": "New Zealand",
@@ -2182,37 +645,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 3
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "PA",
    "Country": "Panama",
@@ -2223,37 +657,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 8
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "PE",
    "Country": "Peru",
@@ -2264,37 +669,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 135
-   },
-   "Inbound Voice Price ": {
-      " min": "0.3986"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.3946"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "PH",
    "Country": "Philippines",
@@ -2305,37 +681,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 15
-   },
-   "Inbound Voice Price ": {
-      " min": "0.22"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.216"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "PL",
    "Country": "Poland",
@@ -2346,37 +693,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 3
-   },
-   "Inbound Voice Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking Price ": {
-      " min": "N/A"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "PR",
    "Country": "Puerto Rico",
@@ -2387,37 +705,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 3
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "PT",
    "Country": "Portugal",
@@ -2428,37 +717,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "RO",
    "Country": "Romania",
@@ -2469,37 +729,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 3
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "RS",
    "Country": "Serbia",
@@ -2510,37 +741,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 105
-   },
-   "Inbound Voice Price ": {
-      " min": "0.4209"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.4169"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "SD",
    "Country": "Sudan",
@@ -2551,37 +753,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 50
-   },
-   "Inbound Voice Price ": {
-      " min": "0.3347"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.3307"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "SE",
    "Country": "Sweden",
@@ -2592,37 +765,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "SG",
    "Country": "Singapore",
@@ -2633,37 +777,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "No",
    "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 75
-   },
-   "Inbound Voice Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking Price ": {
-      " min": "N/A"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.047"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "SI",
    "Country": "Slovenia",
@@ -2674,37 +789,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 5
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "SK",
    "Country": "Slovakia",
@@ -2715,37 +801,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "SV",
    "Country": "El Salvador",
@@ -2756,37 +813,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 9
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "TH",
    "Country": "Thailand",
@@ -2797,37 +825,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 25
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "TN",
    "Country": "Tunisia",
@@ -2838,37 +837,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 120
-   },
-   "Inbound Voice Price ": {
-      " min": "0.5467"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.5427"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "TT",
    "Country": "Trinidad and Tobago",
@@ -2879,37 +849,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 27
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "TZ",
    "Country": "Tanzania",
@@ -2920,37 +861,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 40
-   },
-   "Inbound Voice Price ": {
-      " min": "0.244"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.24"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "UG",
    "Country": "Uganda",
@@ -2961,37 +873,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 40
-   },
-   "Inbound Voice Price ": {
-      " min": "0.12"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.116"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "US",
    "Country": "United States",
@@ -3002,37 +885,8 @@
    "SMS Enabled": "Yes",
    "MMS Enabled": "Yes",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No",
-   "Phone Number Price ": {
-      " month": 1
-   },
-   "Inbound Voice Price ": {
-      " min": "0.0085"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.0045"
-   },
-   "Inbound SMS Price ": {
-      " msg": "0.0075"
-   },
-   "Inbound MMS Price ": {
-      " msg": "0.01"
-   },
-   "Beta Status": "No",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "No"
+ },
  {
    "ISO": "VE",
    "Country": "Venezuela",
@@ -3043,37 +897,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 60
-   },
-   "Inbound Voice Price ": {
-      " min": "0.326"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.322"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "VN",
    "Country": "Vietnam",
@@ -3084,37 +909,8 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 36
-   },
-   "Inbound Voice Price ": {
-      " min": "0.1838"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.1798"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "No",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-},
+   "Domestic SMS Only": "N/A"
+ },
  {
    "ISO": "ZA",
    "Country": "South Africa",
@@ -3125,35 +921,6 @@
    "SMS Enabled": "No",
    "MMS Enabled": "No",
    "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A",
-   "Phone Number Price ": {
-      " month": 1.5
-   },
-   "Inbound Voice Price ": {
-      " min": "0.01"
-   },
-   "Inbound Trunking Price ": {
-      " min": "0.006"
-   },
-   "Inbound SMS Price ": {
-      " msg": "N/A"
-   },
-   "Inbound MMS Price ": {
-      " msg": "N/A"
-   },
-   "Beta Status": "Yes",
-   "Address Required": "Yes",
-   "Inbound Voice From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Voice From Mobile Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Landline Price ": {
-      " min": "N/A"
-   },
-   "Inbound Trunking From Mobile Price ": {
-      " min": "N/A"
-   }
-}
+   "Domestic SMS Only": "N/A"
+ }
 ]
