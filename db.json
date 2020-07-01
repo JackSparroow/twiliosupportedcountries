@@ -3,924 +3,616 @@
    "ISO": "AR",
    "Country": "Argentina",
    "Country Code": 54,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "AT",
    "Country": "Austria",
    "Country Code": 43,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "No",
-   "Trunking Enabled": "No",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "AU",
    "Country": "Australia",
    "Country Code": 61,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "BA",
    "Country": "Bosnia and Herzegovina",
    "Country Code": 387,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "BB",
    "Country": "Barbados",
    "Country Code": 1,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "BE",
    "Country": "Belgium",
    "Country Code": 32,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "No",
-   "Trunking Enabled": "No",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "BG",
    "Country": "Bulgaria",
    "Country Code": 359,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "BJ",
    "Country": "Benin",
    "Country Code": 229,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "BR",
    "Country": "Brazil",
    "Country Code": 55,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "BW",
    "Country": "Botswana",
    "Country Code": 267,
-   "Phone Number Type": "Toll Free",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "CA",
    "Country": "Canada",
    "Country Code": 1,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "Yes",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "Yes"
  },
  {
    "ISO": "CH",
    "Country": "Switzerland",
    "Country Code": 41,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "CL",
    "Country": "Chile",
    "Country Code": 56,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "CO",
    "Country": "Colombia",
    "Country Code": 57,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "CY",
    "Country": "Cyprus",
    "Country Code": 357,
-   "Phone Number Type": "National",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "CZ",
    "Country": "Czech Republic",
    "Country Code": 420,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "DE",
    "Country": "Germany",
    "Country Code": 49,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "DK",
    "Country": "Denmark",
    "Country Code": 45,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "DO",
    "Country": "Dominican Republic",
    "Country Code": 1829,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "DZ",
    "Country": "Algeria",
    "Country Code": 213,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "EC",
    "Country": "Ecuador",
    "Country Code": 593,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "EE",
    "Country": "Estonia",
    "Country Code": 372,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "FI",
    "Country": "Finland",
    "Country Code": 358,
-   "Phone Number Type": "National",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "FR",
    "Country": "France",
    "Country Code": 33,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "GB",
    "Country": "United Kingdom",
    "Country Code": 44,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "GD",
    "Country": "Grenada",
    "Country Code": 1473,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "GE",
    "Country": "Georgia",
    "Country Code": 995,
-   "Phone Number Type": "Local",
    "Voice Enabled": "No",
-   "Trunking Enabled": "No",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "GH",
    "Country": "Ghana",
    "Country Code": 233,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "GN",
    "Country": "Guinea",
    "Country Code": 224,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "GR",
    "Country": "Greece",
    "Country Code": 30,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "HK",
    "Country": "Hong Kong",
    "Country Code": 852,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "No",
-   "Trunking Enabled": "No",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "HU",
    "Country": "Hungary",
    "Country Code": 36,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "ID",
    "Country": "Indonesia",
    "Country Code": 62,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "IL",
    "Country": "Israel",
    "Country Code": 972,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "IN",
    "Country": "India",
    "Country Code": 91,
-   "Phone Number Type": "Toll Free",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "IS",
    "Country": "Iceland",
    "Country Code": 354,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "JM",
    "Country": "Jamaica",
    "Country Code": 1876,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "JP",
    "Country": "Japan",
    "Country Code": 81,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "KE",
    "Country": "Kenya",
    "Country Code": 254,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "KR",
    "Country": "Korea Republic of",
    "Country Code": 82,
-   "Phone Number Type": "Toll Free",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "KY",
    "Country": "Cayman Islands",
    "Country Code": 1345,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "LT",
    "Country": "Lithuania",
    "Country Code": 370,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "LU",
    "Country": "Luxembourg",
    "Country Code": 352,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "LV",
    "Country": "Latvia",
    "Country Code": 371,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "No",
-   "Trunking Enabled": "No",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "ML",
    "Country": "Mali",
    "Country Code": 223,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "MO",
    "Country": "Macau",
    "Country Code": 853,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "MU",
    "Country": "Mauritius",
    "Country Code": 230,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "MX",
    "Country": "Mexico",
    "Country Code": 52,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "MY",
    "Country": "Malaysia",
    "Country Code": 60,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "Yes"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "NA",
    "Country": "Namibia",
    "Country Code": 264,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "NG",
    "Country": "Nigeria",
    "Country Code": 234,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "NI",
    "Country": "Nicaragua",
    "Country Code": 505,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "NL",
    "Country": "Netherlands",
    "Country Code": 31,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "NZ",
    "Country": "New Zealand",
    "Country Code": 64,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "PA",
    "Country": "Panama",
    "Country Code": 507,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "PE",
    "Country": "Peru",
    "Country Code": 51,
-   "Phone Number Type": "Toll Free",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "PH",
    "Country": "Philippines",
    "Country Code": 63,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "PL",
    "Country": "Poland",
    "Country Code": 48,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "No",
-   "Trunking Enabled": "No",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "PR",
    "Country": "Puerto Rico",
    "Country Code": 1,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "PT",
    "Country": "Portugal",
    "Country Code": 351,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "RO",
    "Country": "Romania",
    "Country Code": 40,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "RS",
    "Country": "Serbia",
    "Country Code": 381,
-   "Phone Number Type": "Toll Free",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "SD",
    "Country": "Sudan",
    "Country Code": 249,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "SE",
    "Country": "Sweden",
    "Country Code": 46,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "SG",
    "Country": "Singapore",
    "Country Code": 65,
-   "Phone Number Type": "Mobile",
    "Voice Enabled": "No",
-   "Trunking Enabled": "No",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "N/A",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "SI",
    "Country": "Slovenia",
    "Country Code": 386,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "SK",
    "Country": "Slovakia",
    "Country Code": 421,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "SV",
    "Country": "El Salvador",
    "Country Code": 503,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "TH",
    "Country": "Thailand",
    "Country Code": 66,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "TN",
    "Country": "Tunisia",
    "Country Code": 216,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "TT",
    "Country": "Trinidad and Tobago",
    "Country Code": 1868,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "TZ",
    "Country": "Tanzania",
    "Country Code": 255,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "UG",
    "Country": "Uganda",
    "Country Code": 256,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "US",
    "Country": "United States",
    "Country Code": 1,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "Yes",
-   "MMS Enabled": "Yes",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "No"
+   "MMS Enabled": "Yes"
  },
  {
    "ISO": "VE",
    "Country": "Venezuela",
    "Country Code": 58,
-   "Phone Number Type": "Toll Free",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "Yes",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "VN",
    "Country": "Vietnam",
    "Country Code": 84,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  },
  {
    "ISO": "ZA",
    "Country": "South Africa",
    "Country Code": 27,
-   "Phone Number Type": "Local",
    "Voice Enabled": "Yes",
-   "Trunking Enabled": "Yes",
    "SMS Enabled": "No",
-   "MMS Enabled": "No",
-   "Domestic Voice Only": "No",
-   "Domestic SMS Only": "N/A"
+   "MMS Enabled": "No"
  }
 ]
